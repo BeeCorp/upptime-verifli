@@ -1,5 +1,5 @@
 # Change these first
-owner: jvgaeta # Your GitHub username
+owner: BeeCorp # Your GitHub username
 repo: upptime-verifli # Your Github repository name
 
 # Add your sites here
@@ -12,7 +12,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Verifli Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: 
   navbar:
     - title: Status
       href: /
