@@ -5,19 +5,11 @@ repo: upptime-verifli # Your Github repository name
 # Add your sites here
 sites:
   - name: Verifli
-    url: https://www.verifli.com
+    url: https://verifli.com
 
 status-website:
   baseUrl: /upptime-verifli
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Verifli Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  introTitle:
+  introMessage: Status of verifli.com
