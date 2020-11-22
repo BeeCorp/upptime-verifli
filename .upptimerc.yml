@@ -14,11 +14,6 @@ assignees:
   - jvgaeta
 status-website:
   baseUrl: /upptime-verifli
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Verifli Status
   introTitle:
   introMessage:
-notifications:
-  - type: slack
-    channel: C01XQ3U9M9P
-SLACK_APP_ACCESS_TOKEN: xoxb-210499268822-1520217970995-NBjdAHinuiymEf4sQmhQE3t1
