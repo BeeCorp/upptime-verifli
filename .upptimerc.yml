@@ -6,7 +6,10 @@ repo: upptime-verifli # Your Github repository name
 sites:
   - name: Verifli
     url: https://verifli.com
-
+  - name: Verifli (Beta)
+    url: https://beta.verifli.com
+  - name: Verifli (Demo)
+    url: https://demo.verifli.com
 status-website:
   baseUrl: /upptime-verifli
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
