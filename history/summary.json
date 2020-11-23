@@ -5,7 +5,7 @@
     "slug": "verifli",
     "status": "up",
     "uptime": "100.00%",
-    "time": 598
+    "time": 644
   },
   {
     "name": "Verifli (Beta)",
@@ -13,7 +13,7 @@
     "slug": "verifli-beta",
     "status": "up",
     "uptime": "100.00%",
-    "time": 572
+    "time": 756
   },
   {
     "name": "Verifli (Demo)",
@@ -21,6 +21,6 @@
     "slug": "verifli-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 213
+    "time": 259
   }
 ]
