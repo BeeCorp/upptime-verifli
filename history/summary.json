@@ -5,7 +5,15 @@
     "slug": "verifli",
     "status": "up",
     "uptime": "100.00%",
-    "time": 743
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 796,
+    "timeDay": 782,
+    "timeWeek": 825,
+    "timeMonth": 796,
+    "timeYear": 796
   },
   {
     "name": "Verifli (Beta)",
@@ -13,7 +21,15 @@
     "slug": "verifli-beta",
     "status": "up",
     "uptime": "100.00%",
-    "time": 563
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 578,
+    "timeDay": 200,
+    "timeWeek": 472,
+    "timeMonth": 578,
+    "timeYear": 578
   },
   {
     "name": "Verifli (Demo)",
@@ -21,6 +37,14 @@
     "slug": "verifli-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 245
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 269,
+    "timeDay": 331,
+    "timeWeek": 265,
+    "timeMonth": 269,
+    "timeYear": 269
   }
 ]
