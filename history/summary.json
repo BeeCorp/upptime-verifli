@@ -2,6 +2,7 @@
   {
     "name": "Verifli",
     "url": "https://verifli.com",
+    "icon": "https://favicons.githubusercontent.com/verifli.com",
     "slug": "verifli",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
+    "time": 783,
     "timeDay": 683,
-    "timeWeek": 811,
-    "timeMonth": 788,
-    "timeYear": 788
+    "timeWeek": 808,
+    "timeMonth": 783,
+    "timeYear": 783,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Verifli (Beta)",
     "url": "https://beta.verifli.com",
+    "icon": "https://favicons.githubusercontent.com/beta.verifli.com",
     "slug": "verifli-beta",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 289,
-    "timeWeek": 560,
-    "timeMonth": 568,
-    "timeYear": 568
+    "time": 552,
+    "timeDay": 274,
+    "timeWeek": 387,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Verifli (Demo)",
     "url": "https://demo.verifli.com",
+    "icon": "https://favicons.githubusercontent.com/demo.verifli.com",
     "slug": "verifli-demo",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 219,
-    "timeWeek": 261,
-    "timeMonth": 266,
-    "timeYear": 266
+    "time": 270,
+    "timeDay": 345,
+    "timeWeek": 279,
+    "timeMonth": 270,
+    "timeYear": 270,
+    "dailyMinutesDown": {}
   }
 ]
